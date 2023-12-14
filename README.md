@@ -1,5 +1,5 @@
 ### Hi there 👋
-#wassup
+# wassup
 
 - 🔭 I’m currently working on my Arch linux install asalways
 - 🌱 I bounce around with what I'm working on.

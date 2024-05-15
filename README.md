@@ -6,6 +6,6 @@
 - 👯 I’m looking to collaborate on anything! I need more experience.
 - 💬 Ask me about anything linux related, thats my jam!
 
-[![Wyfi0's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wyfi0)](https://github.com/Wyfi0/github-readme-stats)
+[![Wyfi0's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wyfi0&show_icons=true&theme=tokyonight)](https://github.com/Wyfi0/github-readme-stats)
 
 
